@@ -9,3 +9,7 @@
 ##Database
 
 -	[how to restore sqlserver2008 2005](how_to_restore_sqlserver2008_2005.md)
+
+## JQuery
+
+-	[How to checked checkbox](how_to_checked_checkbox.md)
