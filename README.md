@@ -15,3 +15,9 @@
 ## JQuery
 
 -	[How to checked checkbox](how_to_checked_checkbox.md)
+
+## Android
+- [Android Problems](android.md)
+
+##Mybatis
+- [How to disable cache](how_to_disable_mybatis_cache.md)
